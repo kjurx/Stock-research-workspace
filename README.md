@@ -1,4 +1,4 @@
-# Guru Skills — Indian Stock Market Researcher workspace
+# Guru Skills — Indian Stock Market Researcher
 
 Indian stock market researcher for NSE/BSE. All-in-one skill covering fundamental analysis, technical analysis, stock screening, and research report generation.
 
